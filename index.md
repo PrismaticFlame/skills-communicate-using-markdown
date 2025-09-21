@@ -12,3 +12,7 @@ def MyNewClass:
 new_class = new MyNewClass()
 print(MyNewClass.variable_x)
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself at work
